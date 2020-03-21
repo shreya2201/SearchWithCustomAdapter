@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">SearchWithCustomAdapter</string>
+
+    <string name="heading_01">Ladli Laxmi Yojana</string>
+    <string name="brief_01">For improving the health and educational status of the girls in the State, laying the foundation for better future, to prevent female feticide and to bring the positive attitude among people towards girl child birth and with the aim to preventing child marriages, the "Ladli Laxmi Yojana" has been introduced in the State. The plan is for the girls, born after 1st January 2006.</string>
+    <string name="eligibility_01">Girl child, whose parents have adopted family planning and they are registered in Anangwadi center and they are not income tax payers.</string>
+    <string name="benefits_01">After the approval of the case, National Saving Certificates of Rs. 6000/- will be purchased continuously up to the 5 years in the name of beneficiary. and after that :-
+        Rs. 2000/- on the admission in 6 th class, Rs.4000/- on the admission in 9th class and Rs.7500/- on the admission, will be paid to the girl child as lump sum amount.
+        Remaining amount will be paid as lump sum on completion of 21 years of age and on appearing in the examination of 12th class, with the condition that the girl has been married only after 18 years of age.</string>
+    <string name="apply_01">Nearest Anangwadi center or District Women and Child Development office.</string>
+    <string name="more_01">https://ladlilaxmi.mp.gov.in/</string>
+
+
+    <string name="heading_02">Mangal Diwas Yojana</string>
+    <string name="brief_02">This scheme is launched by the government of Madhya Pradesh in order to improve attendance of girl child in Anganwadi centers. It will increase the participantion of girls in the educations field.</string>
+    <string name="eligibility_02">All girls and women who are residents of Madhya Pradesh</string>
+    <string name="benefits_02">Improving attendance of children at Anangwadi centers, insuring safe delivery, reducing rate of maternal mortality and infant mortality, reducing malnutrition in children and proper care of adolescent girls.</string>
+    <string name="apply_02">Nearest Anangwadi center or District Women and Child Development office.</string>
+    <string name="more_02">http://www.mp.gov.in/web/wcd/auspicious-day</string>
+
+
+    <string name="heading_03">Pradhan Mantri Matru Vandana Yojana</string>
+    <string name="brief_03"> It is a conditional cash transfer scheme for pregnant and lactating women of 19 years of age or above for the first live birth. It provides a partial wage compensation to women for wage-loss during childbirth and childcare and to provide conditions for safe delivery and good nutrition and feeding practices.</string>
+    <string name="eligibility_03">	Pregnant women’s age should be 19 years or above.</string>
+    <string name="benefits_03">₹6,000 to be paid in two installments of ₹3,000 each.</string>
+    <string name="apply_03">Nearest Anangwadi Center or Child development Scheme Officer/District Women and Child Development officer.</string>
+    <string name="more_03">https://en.wikipedia.org/wiki/Pradhan_Mantri_Matritva_Vandana_Yojana</string>
+
+    <string name="heading_04">Free Cycle Vitran Yojana</string>
+    <string name="brief_04">Many of students in MP state discontinued their studies due to long distance. For travel purposes, this scheme is provided to the students so that they can go to the school using cycles. This Free-Cycles Distribution Scheme is given for girl and boys both students. Under the yojana boys and girls will be paid the cost of Rs. 2400 so that they can buy cycle. The main focus of this scheme is given to those students who are living in the rural areas and the school/college is far from their residence. </string>
+    <string name="eligibility_04">All 9th Class students belong to all categories in rural area, who does not have Government High school in their village and who travel to another village/city for further studies in Government High schools, will be eligible to take advantage of this scheme.</string>
+    <string name="benefits_04"> Under the yojana boys and girls will be paid the cost of Rs. 2400 so that they can buy cycle. </string>
+    <string name="apply_04">Principal of respective Government High school</string>
+    <string name="more_04">https://www.readermaster.com/madhya-pradesh-free-cycle-vitran-yojana-mpinfo-application-form-bicycles-distribution-scheme-dept-public-relations-govt-mp/</string>
+
+    <string name="heading_05">Inclusive education for children with disabilities, Secondary Stage (IEDSS)</string>
+    <string name="brief_05">The Centrally Sponsored I.E.D.S.S. Scheme aims to enable all students with disabilities completing eight years of elementary schooling an opportunity to complete four years of secondary schooling (classes IX to XII) in an inclusive and enabling environment; provide educational opportunities and facilities to students with disabilities in the general education system at the secondary level (classes IX to XII); and support the training of general school teachers to meet the needs of children with disabilities at the secondary level.</string>
+    <string name="eligibility_05">Children with disabilities, studying in class 9 to 12 in ordinary schools; will be eligible under IEDSS Scheme.</string>
+    <string name="benefits_05"> It is proposed to provide for educational facilities under this scheme for all children with disabilities that are included in general schools at the secondary and senior secondary level (classes IX to XII). The Scheme will include assistance for two kinds of components including (1) Student/Beneficiary-oriented components; and (2) Other components (e.g. those relating to infrastructure, teacher training, awareness generation, etc.).</string>
+    <string name="apply_05">Education officer of respective District, Sankul Pracharya or Principal of respective school.</string>
+    <string name="more_05">http://www.dnis.org/print_features.php?features_id=116</string>
+
+    <string name="heading_06">Sudama Pre-Matric Scholarship Scheme</string>
+    <string name="brief_06">This scheme is launched by the Government of Madhya Pradesh. This scheme is for the students of class 9th and 10th from the general poor family who are studying in government schools. It provides the annual scholarship to students. This scheme has been initiated with the aim to encourage girls and boys.</string>
+    <string name="eligibility_06">Students of class 9th and 10th from general poor family, who are studying in government schools and whose family income from all source should not more than Rs. 54000.</string>
+    <string name="benefits_06">(1)The girl will be given a scholarship of Rs 400/- while the boy will be given Rs 300/- per year/ annually. (2)Annual Scholarship of Rs. 400 to the girl and Rs. 300 to the boy from general poor family, studying in 9th and 10th standard.</string>
+    <string name="apply_06">Contact to Principal of respective school.</string>
+    <string name="more_06">http://website-087.wernet.demos.rvsolutions.in/en-us/Sudama-Pre-Matric-Scholarship-Scheme</string>
+
+
+
+
+    <string name="brief">BRIEF</string>
+    <string name="eligibility">Eligibility</string>
+    <string name="benefits">BENEFITS</string>
+    <string name="apply">APPLY HERE</string>
+    <string name="more">MORE</string>
+    <string name="learn_more">Learn More &#8230;</string>
+
+    <string name="head_brief">Brief of the Scheme</string>
+    <string name="head_eligibility">Eligibility for the Scheme</string>
+    <string name="head_benefits">Benefits of the scheme</string>
+</resources>
